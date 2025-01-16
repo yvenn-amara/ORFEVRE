@@ -13,7 +13,7 @@ Contributions are welcome! Please fork the repository and submit pull requests. 
 
 ## Authors
 
-- [Yvenn Amara-Ouali]((https://www.yvenn-amara.com/)
+- [Yvenn Amara-Ouali](https://www.yvenn-amara.com/)
 - [Bachir Hamrouche](https://www.linkedin.com/in/bachir-hamrouche-5666a133/?originalSubdomain=en)  
 - [Guillaume Principato](https://www.linkedin.com/in/guillaume-principato/?originalSubdomain=en)
 
