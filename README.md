@@ -1,5 +1,5 @@
 # ORFEVRE
-![Package Logo](logo.png)
+![Package Logo](logo.webp)
 
 ORFEVRE (Operational Recalibration of Forecasts for Electric Vehicle REcharging) is a collection of R scripts designed to provide load curve quantile forecasts and prediction sets at different time horizons. It also allows the user to recalibrate the forecasts in real-time with conformal predictions (Signed CP, CQR and ACI). Developed by Yvenn Amara-Ouali, Bachir Hamrouche, and Guillaume Principato.
 
